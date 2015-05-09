@@ -1,6 +1,6 @@
 //
 // Find the number of edges that transform the graph to a forest of trees with
-// the even number of vertices whey they are removed from the graph.
+// the even number of vertices whey they are removed from the graph
 //
 
 #include <iostream>
